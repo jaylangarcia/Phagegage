@@ -1,0 +1,6 @@
+/.DS_Store
+/alignment.tsv
+/alignment_G.tsv
+/dp.tsv
+/venv
+.env
