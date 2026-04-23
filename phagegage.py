@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 
 import requests
 
-load_dotenv()vngjhgn
+load_dotenv()
 
 # load the API key from the .env file, or use a placeholder value if the .env file is not found or the API_KEY variable is not set
 apiKey = getenv("API_KEY") or "your phamerator API key here" # replace this with your actual phamerator API key
